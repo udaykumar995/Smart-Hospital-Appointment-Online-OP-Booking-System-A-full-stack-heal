@@ -1,0 +1,6 @@
+{
+  "name": "Smart Hospital Appointment & Online OP Booking System",
+  "description": "A comprehensive healthcare platform connecting patients with nearby hospitals for online outpatient (OP) bookings with role-based dashboards, interactive maps, secure bookings, payment splits, and analytics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
